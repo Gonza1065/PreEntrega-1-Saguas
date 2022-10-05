@@ -20,7 +20,7 @@ function NavBar() {
             <a href="#">Mujeres</a>
           </li>
           <li>
-            <a href="#">Niños</a>
+            <a href="#"></a>
           </li>
           <div className = "carrito-de-compras">
             <a href="#">
